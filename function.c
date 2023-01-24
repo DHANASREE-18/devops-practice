@@ -1,1 +1,2 @@
 INITIAL CODE
+function added
